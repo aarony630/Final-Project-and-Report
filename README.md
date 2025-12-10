@@ -2,6 +2,7 @@
 To design and implement an embedded powered 90s era style handheld electronic game
 
 ##Overview
+
 This project is an interactive tilt-controlled game built using a Seeed Xiao ESP32,
 an SSD1306 OLED display, a NeoPixel LED, a rotary encoder, and an ADXL345 accelerometer.
 The objective of the game is for the player to control a small character (“*”) by tilting
